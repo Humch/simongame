@@ -70,20 +70,40 @@ body
     border-color: white !important;
 }
 
+/* not animated game case background */
+
 .green-bg {
-    background-color: green;
+    background-color: #03530D;
 }
 
 .red-bg {
-    background-color: #BF0F00;
+    background-color: #990C00;
 }
 
 .yellow-bg {
-    background-color: #FFD111;
+    background-color: #C4A10D;
 }
 
 .blue-bg {
     background-color: #0D0D73;
+}
+
+/* animated game case background */
+
+.light-green-bg {
+    background-color: #08E824;
+}
+
+.light-red-bg {
+    background-color: #F71300;
+}
+
+.light-yellow-bg {
+    background-color: #FFD111;
+}
+
+.light-blue-bg {
+    background-color: #1C43F7;
 }
 
 a.fill-div {
